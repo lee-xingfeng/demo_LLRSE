@@ -1,2 +1,2 @@
-# demo_LLRSE
-The code of our paper for IEEE Trans Image Processing (TIP).
+Accept paper.
+IEEE Trans Image Processing (TIP).
