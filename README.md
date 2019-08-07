@@ -1,2 +1,1 @@
-Accept paper.
-IEEE Trans Image Processing (TIP).
+Accept by IEEE Transaction on Image Processing (TIP).
