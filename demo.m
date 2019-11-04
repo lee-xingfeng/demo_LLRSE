@@ -7,7 +7,7 @@ clear memory;
 [TrainData,TrainLab,TestData,TestLab]=gen_data_random('YaleB_32x32',10);
 
 lambda1 = 0.1;%Q
-lambda2 = 0.0001;%E
+lambda2 = 0.01;%E
 lambda3 = 0.0001;%Z
 
 [P,Q,Z,E,H,obj] = LLRSE(TrainData,TrainLab,lambda1,lambda2,lambda3);
